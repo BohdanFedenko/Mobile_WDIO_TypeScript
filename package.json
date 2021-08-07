@@ -1,0 +1,19 @@
+{
+  "name": "mobile_wdio_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript.git"
+  },
+  "author": "Fedenko Bohdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript/issues"
+  },
+  "homepage": "https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript#readme"
+}
