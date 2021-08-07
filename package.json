@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript/issues"
   },
-  "homepage": "https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript#readme"
+  "homepage": "https://github.com/BohdanFedenko/Mobile_WDIO_TypeScript#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.9.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.9.0",
+    "@wdio/mocha-framework": "^7.9.0",
+    "@wdio/spec-reporter": "^7.9.0",
+    "chromedriver": "^92.0.1",
+    "wdio-chromedriver-service": "^7.2.0"
+  }
 }
